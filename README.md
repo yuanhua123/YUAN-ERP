@@ -1,6 +1,6 @@
 # Yuan-Erp 管理系统
 
-[img]https://s3.bmp.ovh/2026/10/08/y8H5X5Ze.png[/img]
+![输入图片说明]https://s3.bmp.ovh/2026/10/08/y8H5X5Ze.png)
 ![输入图片说明](https://s3.bmp.ovh/2026/10/08/15xIeWKM.png)
 ![输入图片说明](https://s3.bmp.ovh/2026/10/08/0aKnYYnC.png)
 ![输入图片说明](https://s3.bmp.ovh/2026/10/08/6J64urWe.png)
