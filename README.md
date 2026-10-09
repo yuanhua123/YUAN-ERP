@@ -1,6 +1,6 @@
 # Yuan-Erp 管理系统
 
-![输入图片说明]https://s3.bmp.ovh/2026/10/08/y8H5X5Ze.png)
+![输入图片说明](https://s3.bmp.ovh/2026/10/08/y8H5X5Ze.png)
 ![输入图片说明](https://s3.bmp.ovh/2026/10/08/15xIeWKM.png)
 ![输入图片说明](https://s3.bmp.ovh/2026/10/08/0aKnYYnC.png)
 ![输入图片说明](https://s3.bmp.ovh/2026/10/08/6J64urWe.png)
@@ -98,8 +98,8 @@ Microsoft Windows Desktop Runtime 8.0.31
 
 ### 二、下载
 
-从本仓库获取以下内容（**建议把体积大的成品放在「发行版 / Release」的附件里下载**，
-仓库正文只保留本 README 与小文件 —— 免费仓库对单文件大小和仓库容量都有限制）：
+(https://smt123.lanzoub.com/b0j1rkjah  密码:7bie)
+
 
 
 
